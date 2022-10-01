@@ -10,5 +10,5 @@ arrowLeft.addEventListener("click", () => {
 });
 arrowRight.addEventListener("click", () => {
   console.style.left = "-50px";
-  controle.style.left = "650px";
+  controle.style.left = "-650px";
 });
